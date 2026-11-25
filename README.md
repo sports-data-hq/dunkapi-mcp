@@ -35,14 +35,29 @@ It forwards to the hosted server with your key, so every tool and credit cost is
 
 ## Skills
 
-Claude skills for basketball now live in the SportsDataHQ skills marketplace, one plugin per sport, alongside skills for eight more sports: [sports-data-hq/sportsdatahq-skills](https://github.com/sports-data-hq/sportsdatahq-skills).
+5 Claude skills for basketball ship in this repo, plus 14 analytics skills for models, backtests, calibration and comparing a model with the market. Every number in an answer comes from a live DunkAPI tool call, and odds are information only: no stakes, no picks.
+
+Claude Code:
 
 ```
-/plugin marketplace add sports-data-hq/sportsdatahq-skills
-/plugin install nba-data@sportsdatahq
+/plugin marketplace add sports-data-hq/dunkapi-mcp
+/plugin install nba-data@dunkapi
+/plugin install sports-analytics-core@dunkapi
 ```
 
-The plugin connects the DunkAPI MCP server; every number comes from a live call.
+Codex: `codex plugin marketplace add sports-data-hq/dunkapi-mcp`. Any agent that reads skills: `npx skills add sports-data-hq/dunkapi-mcp`.
+
+| Skill | What it does |
+|---|---|
+| `nba-game-preview` | One-page preview: records, ratings, pace and efficiency, four factors, injuries and the line |
+| `nba-minutes-usage-redistribution` | Who benefits when a player sits: minutes, shots and usage per teammate with and without him |
+| `nba-pace-efficiency-matchup` | Two teams side by side on pace, offensive and defensive rating per 100 and the four factors |
+| `nba-player-props-research` | Prop lines by sportsbook, the player's record against his line, minutes context and movement |
+| `nba-shot-quality` | Shot quality by zone: attempts, makes and expected points per shot against actual results |
+
+The analytics skills: `backtesting`, `data-pipeline`, `elo-engineering`, `feature-engineering`, `market-vs-model`, `model-building`, `nl-to-query`, `odds-market-analysis`, `prediction-tracker`, `probability-calibration`, `sports-data-preflight`, `sports-skill-router`, `visualization`, `walk-forward-validation`.
+
+All nine sports' skills live in [sports-data-hq/sportsdatahq-skills](https://github.com/sports-data-hq/sportsdatahq-skills). The copies here are synced from there, so please open issues and pull requests there.
 
 ## Python
 
