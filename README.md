@@ -1,5 +1,7 @@
 # DunkAPI MCP server
 
+[![DunkAPI MCP connector](https://glama.ai/mcp/connectors/io.github.noahowsh/dunkapi/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noahowsh/dunkapi)
+
 [![MCP Registry](https://img.shields.io/badge/MCP%20Registry-listed-0b7285?style=flat-square)](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.noahowsh/dunkapi)
 
 **The basketball data API.** NBA play-by-play with the location of every shot, box scores, win probability, standings, injuries, our own team Elo ratings, sportsbook lines and player prop lines, plus the WNBA and men's and women's Division I college basketball. REST API and MCP server. 500 free credits every month, no card.
