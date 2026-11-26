@@ -23,7 +23,7 @@ Claude: [calls get_prop_history]
 Most clients connect to `https://mcp.dunkapi.com/mcp` directly. For a client that launches a local process instead:
 
 ```bash
-git clone https://github.com/noahowsh/dunkapi-mcp.git && cd dunkapi-mcp && npm install
+git clone https://github.com/sports-data-hq/dunkapi-mcp.git && cd dunkapi-mcp && npm install
 DUNKAPI_API_KEY=your_key node index.js
 ```
 
@@ -133,13 +133,13 @@ See [`examples/README.md`](examples/README.md) for details. Get a free key (500 
 
 ## Starter projects
 
-- [nba-props-backtest](https://github.com/noahowsh/nba-props-backtest): grade NBA player props against the closing line, per player or league-wide, in one Python script.
+- [nba-props-backtest](https://github.com/sports-data-hq/nba-props-backtest): grade NBA player props against the closing line, per player or league-wide, in one Python script.
 
 ## Use it in
 
 - **Claude, ChatGPT, Cursor, VS Code, Gemini CLI, Grok, Perplexity, Le Chat:** add `https://mcp.dunkapi.com/mcp` as a remote MCP server. Step-by-step for each: https://dunkapi.com/mcp?utm_source=github&utm_medium=readme&utm_campaign=dunkapi-mcp
-- **Gemini CLI:** `gemini extensions install https://github.com/noahowsh/dunkapi-mcp`
-- **Cursor:** the [SportsDataHQ plugins for Cursor](https://github.com/noahowsh/sportsdatahq-cursor-plugins)
+- **Gemini CLI:** `gemini extensions install https://github.com/sports-data-hq/dunkapi-mcp`
+- **Cursor:** the [SportsDataHQ plugins for Cursor](https://github.com/sports-data-hq/sportsdatahq-cursor-plugins)
 - **Google Sheets:** `=SDHQ("dunkapi","list_teams")` fills a live table: https://sportsdatahq.com/sheets?utm_source=github&utm_medium=readme&utm_campaign=dunkapi-mcp
 - **REST:** `POST https://mcp.dunkapi.com/v1/<tool>` with an `x-api-key` header: https://dunkapi.com/docs?utm_source=github&utm_medium=readme&utm_campaign=dunkapi-mcp
 
@@ -202,7 +202,7 @@ Coverage by season, read live from the database: https://dunkapi.com/docs?utm_so
 
 ## Pricing
 
-500 free credits every month, no card. Plans: Starter $19/mo (10,000 credits), Pro $49/mo (30,000), Scale $149/mo (125,000). Wallet top-ups from $5, never expire. https://dunkapi.com/pricing?utm_source=github&utm_medium=readme&utm_campaign=dunkapi-mcp
+500 free credits every month, no card. Plans: Starter $19/mo (10,000 credits), Pro $49/mo (30,000), Scale $149/mo (125,000), Business $299/mo (300,000). Wallet top-ups from $5, never expire. https://dunkapi.com/pricing?utm_source=github&utm_medium=readme&utm_campaign=dunkapi-mcp
 
 ## Attribution
 
@@ -226,7 +226,7 @@ Install `nba-data`, which bundles the basketball skills and the DunkAPI MCP serv
 
 ```bash
 export DUNKAPI_API_KEY=your_key
-gemini extensions install https://github.com/noahowsh/dunkapi-mcp
+gemini extensions install https://github.com/sports-data-hq/dunkapi-mcp
 ```
 
 The extension adds the DunkAPI MCP server (https://mcp.dunkapi.com/mcp) and sends the key in the `x-api-key` header. Get a free key (500 credits a month) at https://dunkapi.com/signup?utm_source=github&utm_medium=readme&utm_campaign=dunkapi-mcp.
