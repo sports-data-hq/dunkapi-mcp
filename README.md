@@ -43,7 +43,7 @@ It forwards to the hosted server with your key, so every tool and credit cost is
 
 ## Skills
 
-7 Claude skills for basketball ship in this repo, plus 15 analytics skills for models, backtests, calibration and comparing a model with the market. Every number in an answer comes from a live DunkAPI tool call, and odds are information only: no stakes, no picks.
+7 Claude skills for basketball ship in this repo, plus 13 analytics skills for models, backtests, calibration and comparing a model with the market. Every number in an answer comes from a live DunkAPI tool call, and odds are information only: no stakes, no picks.
 
 Claude Code:
 
@@ -65,7 +65,7 @@ Codex: `codex plugin marketplace add sports-data-hq/dunkapi-mcp`. Any agent that
 | `nba-player-props-research` | Prop lines by sportsbook, the player's record against his line, minutes context and movement |
 | `nba-shot-quality` | Shot quality by zone: attempts, makes and expected points per shot against actual results |
 
-The analytics skills: `backtesting`, `data-pipeline`, `elo-engineering`, `feature-engineering`, `market-vs-model`, `model-building`, `nl-to-query`, `odds-market-analysis`, `prediction-tracker`, `probability-calibration`, `season-pack-offline`, `sports-data-preflight`, `sports-skill-router`, `visualization`, `walk-forward-validation`.
+The analytics skills: `backtesting`, `data-pipeline`, `elo-engineering`, `feature-engineering`, `market-vs-model`, `model-building`, `odds-market-analysis`, `prediction-tracker`, `probability-calibration`, `season-pack-offline`, `sports-data-preflight`, `visualization`, `walk-forward-validation`.
 
 Real answers on live data, with the credits each used: [example answers](https://github.com/sports-data-hq/sportsdatahq-skills/tree/main/docs/examples/nba).
 
