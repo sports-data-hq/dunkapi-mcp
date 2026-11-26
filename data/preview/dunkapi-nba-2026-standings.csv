@@ -1,0 +1,31 @@
+league,season,conference,conference_rank,team,games,wins,losses,win_pct,home_wins,home_losses,away_wins,away_losses,conf_wins,conf_losses,points_for,points_against,point_diff
+nba,2026,Eastern,1,Detroit Pistons,82,60,22,0.732,32,9,28,13,39,13,9657,8988,669
+nba,2026,Eastern,2,Boston Celtics,82,56,26,0.683,30,11,26,15,36,16,9418,8787,631
+nba,2026,Eastern,3,New York Knicks,82,53,29,0.646,30,10,23,19,35,17,9549,9030,519
+nba,2026,Eastern,4,Cleveland Cavaliers,82,52,30,0.634,27,14,25,16,33,19,9801,9464,337
+nba,2026,Eastern,5,Toronto Raptors,82,46,36,0.561,24,17,22,19,33,19,9400,9168,232
+nba,2026,Eastern,6,Atlanta Hawks,82,46,36,0.561,24,17,22,19,27,25,9714,9516,198
+nba,2026,Eastern,7,Orlando Magic,82,45,37,0.549,26,16,19,21,26,26,9491,9439,52
+nba,2026,Eastern,8,Philadelphia 76ers,82,45,37,0.549,23,18,22,19,27,25,9502,9517,-15
+nba,2026,Eastern,9,Charlotte Hornets,82,44,38,0.537,21,20,23,18,26,26,9513,9117,396
+nba,2026,Eastern,10,Miami Heat,82,43,39,0.524,26,15,17,24,27,25,9911,9720,191
+nba,2026,Eastern,11,Milwaukee Bucks,82,32,50,0.390,19,22,13,28,21,31,9072,9581,-509
+nba,2026,Eastern,12,Chicago Bulls,82,31,51,0.378,18,23,13,28,19,32,9537,9964,-427
+nba,2026,Eastern,13,Brooklyn Nets,82,20,62,0.244,12,29,8,33,14,37,8686,9505,-819
+nba,2026,Eastern,14,Indiana Pacers,82,19,63,0.232,11,30,8,33,15,37,9219,9874,-655
+nba,2026,Eastern,15,Washington Wizards,82,17,65,0.207,11,30,6,35,11,41,9258,10240,-982
+nba,2026,Western,1,Oklahoma City Thunder,82,64,18,0.780,34,8,30,10,41,11,9760,8846,914
+nba,2026,Western,2,San Antonio Spurs,82,62,20,0.756,32,8,30,12,36,16,9826,9145,681
+nba,2026,Western,3,Denver Nuggets,82,54,28,0.659,28,13,26,15,36,16,10010,9588,422
+nba,2026,Western,4,Los Angeles Lakers,82,53,29,0.646,28,13,25,16,33,19,9540,9396,144
+nba,2026,Western,5,Houston Rockets,82,52,30,0.634,30,11,22,19,29,23,9449,9021,428
+nba,2026,Western,6,Minnesota Timberwolves,82,49,33,0.598,26,15,23,18,31,21,9676,9401,275
+nba,2026,Western,7,Phoenix Suns,82,45,37,0.549,25,16,20,21,29,23,9232,9112,120
+nba,2026,Western,8,LA Clippers,82,42,40,0.512,23,18,19,22,25,27,9329,9236,93
+nba,2026,Western,9,Portland Trail Blazers,82,42,40,0.512,24,17,18,23,29,23,9469,9493,-24
+nba,2026,Western,10,Golden State Warriors,82,37,45,0.451,22,19,15,26,24,28,9398,9444,-46
+nba,2026,Western,11,New Orleans Pelicans,82,26,56,0.317,17,24,9,32,17,34,9473,9842,-369
+nba,2026,Western,12,Dallas Mavericks,82,26,56,0.317,16,25,10,31,14,37,9358,9810,-452
+nba,2026,Western,13,Memphis Grizzlies,82,25,57,0.305,14,27,11,30,19,33,9403,9896,-493
+nba,2026,Western,14,Utah Jazz,82,22,60,0.268,14,27,8,33,12,40,9642,10333,-691
+nba,2026,Western,15,Sacramento Kings,82,22,60,0.268,15,26,7,34,14,38,9102,9922,-820

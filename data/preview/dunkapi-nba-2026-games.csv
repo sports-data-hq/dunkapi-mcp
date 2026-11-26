@@ -1,0 +1,101 @@
+league,season,stage,date,home_team,away_team,home_score,away_score,periods,neutral_site,conference_game,venue
+nba,2026,regular,2025-10-21,Oklahoma City Thunder,Houston Rockets,125,124,6,f,t,Paycom Center
+nba,2026,regular,2025-10-21,Los Angeles Lakers,Golden State Warriors,109,119,4,f,t,crypto.com Arena
+nba,2026,regular,2025-10-22,New York Knicks,Cleveland Cavaliers,119,111,4,f,t,Madison Square Garden
+nba,2026,regular,2025-10-22,Dallas Mavericks,San Antonio Spurs,92,125,4,f,t,American Airlines Center
+nba,2026,regular,2025-10-22,Charlotte Hornets,Brooklyn Nets,136,117,4,f,t,Spectrum Center
+nba,2026,regular,2025-10-22,Orlando Magic,Miami Heat,125,121,4,f,t,Kia Center
+nba,2026,regular,2025-10-22,Atlanta Hawks,Toronto Raptors,118,138,4,f,t,State Farm Arena
+nba,2026,regular,2025-10-22,Boston Celtics,Philadelphia 76ers,116,117,4,f,t,TD Garden
+nba,2026,regular,2025-10-22,Chicago Bulls,Detroit Pistons,115,111,4,f,t,United Center
+nba,2026,regular,2025-10-22,Memphis Grizzlies,New Orleans Pelicans,128,122,4,f,t,FedExForum
+nba,2026,regular,2025-10-22,Milwaukee Bucks,Washington Wizards,133,120,4,f,t,Fiserv Forum
+nba,2026,regular,2025-10-22,Utah Jazz,LA Clippers,129,108,4,f,t,Delta Center
+nba,2026,regular,2025-10-22,Phoenix Suns,Sacramento Kings,120,116,4,f,t,Mortgage Matchup Center
+nba,2026,regular,2025-10-22,Portland Trail Blazers,Minnesota Timberwolves,114,118,4,f,t,Moda Center
+nba,2026,regular,2025-10-23,Indiana Pacers,Oklahoma City Thunder,135,141,6,f,f,Gainbridge Fieldhouse
+nba,2026,regular,2025-10-23,Golden State Warriors,Denver Nuggets,137,131,5,f,t,Chase Center
+nba,2026,regular,2025-10-24,Orlando Magic,Atlanta Hawks,107,111,4,f,t,Kia Center
+nba,2026,regular,2025-10-24,Brooklyn Nets,Cleveland Cavaliers,124,131,4,f,t,Barclays Center
+nba,2026,regular,2025-10-24,New York Knicks,Boston Celtics,105,95,4,f,t,Madison Square Garden
+nba,2026,regular,2025-10-24,Toronto Raptors,Milwaukee Bucks,116,122,4,f,t,Scotiabank Arena
+nba,2026,regular,2025-10-24,Houston Rockets,Detroit Pistons,111,115,4,f,f,Toyota Center (Houston)
+nba,2026,regular,2025-10-24,Memphis Grizzlies,Miami Heat,114,146,4,f,f,FedExForum
+nba,2026,regular,2025-10-24,New Orleans Pelicans,San Antonio Spurs,116,120,5,f,t,Smoothie King Center
+nba,2026,regular,2025-10-24,Dallas Mavericks,Washington Wizards,107,117,4,f,f,American Airlines Center
+nba,2026,regular,2025-10-24,Los Angeles Lakers,Minnesota Timberwolves,128,110,4,f,t,crypto.com Arena
+nba,2026,regular,2025-10-24,Portland Trail Blazers,Golden State Warriors,139,119,4,f,t,Moda Center
+nba,2026,regular,2025-10-24,Sacramento Kings,Utah Jazz,105,104,4,f,t,Golden 1 Center
+nba,2026,regular,2025-10-24,LA Clippers,Phoenix Suns,129,102,4,f,t,Intuit Dome
+nba,2026,regular,2025-10-25,Orlando Magic,Chicago Bulls,98,110,4,f,t,Kia Center
+nba,2026,regular,2025-10-25,Atlanta Hawks,Oklahoma City Thunder,100,117,4,f,f,State Farm Arena
+nba,2026,regular,2025-10-25,Philadelphia 76ers,Charlotte Hornets,125,121,4,f,t,Xfinity Mobile Arena
+nba,2026,regular,2025-10-25,Memphis Grizzlies,Indiana Pacers,128,103,4,f,f,FedExForum
+nba,2026,regular,2025-10-25,Denver Nuggets,Phoenix Suns,133,111,4,f,t,Ball Arena
+nba,2026,regular,2025-10-26,San Antonio Spurs,Brooklyn Nets,118,107,4,f,f,Frost Bank Center
+nba,2026,regular,2025-10-26,Detroit Pistons,Boston Celtics,119,113,4,f,t,Little Caesars Arena
+nba,2026,regular,2025-10-26,Cleveland Cavaliers,Milwaukee Bucks,118,113,4,f,t,Rocket Arena
+nba,2026,regular,2025-10-26,Miami Heat,New York Knicks,115,107,4,f,t,Kaseya Center
+nba,2026,regular,2025-10-26,Washington Wizards,Charlotte Hornets,113,139,4,f,t,Capital One Arena
+nba,2026,regular,2025-10-26,Minnesota Timberwolves,Indiana Pacers,114,110,4,f,f,Target Center
+nba,2026,regular,2025-10-26,Dallas Mavericks,Toronto Raptors,139,129,4,f,f,American Airlines Center
+nba,2026,regular,2025-10-26,LA Clippers,Portland Trail Blazers,114,107,4,f,t,Intuit Dome
+nba,2026,regular,2025-10-26,Sacramento Kings,Los Angeles Lakers,120,127,4,f,t,Golden 1 Center
+nba,2026,regular,2025-10-27,Detroit Pistons,Cleveland Cavaliers,95,116,4,f,t,Little Caesars Arena
+nba,2026,regular,2025-10-27,Minnesota Timberwolves,Denver Nuggets,114,127,4,f,t,Target Center
+nba,2026,regular,2025-10-27,Philadelphia 76ers,Orlando Magic,136,124,4,f,t,Xfinity Mobile Arena
+nba,2026,regular,2025-10-27,Chicago Bulls,Atlanta Hawks,128,123,4,f,t,United Center
+nba,2026,regular,2025-10-27,Houston Rockets,Brooklyn Nets,137,109,4,f,f,Toyota Center (Houston)
+nba,2026,regular,2025-10-27,New Orleans Pelicans,Boston Celtics,90,122,4,f,f,Smoothie King Center
+nba,2026,regular,2025-10-27,San Antonio Spurs,Toronto Raptors,121,103,4,f,f,Frost Bank Center
+nba,2026,regular,2025-10-27,Dallas Mavericks,Oklahoma City Thunder,94,101,4,f,t,American Airlines Center
+nba,2026,regular,2025-10-27,Utah Jazz,Phoenix Suns,138,134,5,f,t,Delta Center
+nba,2026,regular,2025-10-27,Golden State Warriors,Memphis Grizzlies,131,118,4,f,t,Chase Center
+nba,2026,regular,2025-10-27,Los Angeles Lakers,Portland Trail Blazers,108,122,4,f,t,crypto.com Arena
+nba,2026,regular,2025-10-28,Washington Wizards,Philadelphia 76ers,134,139,5,f,t,Capital One Arena
+nba,2026,regular,2025-10-28,Miami Heat,Charlotte Hornets,144,117,4,f,t,Kaseya Center
+nba,2026,regular,2025-10-28,Milwaukee Bucks,New York Knicks,121,111,4,f,t,Fiserv Forum
+nba,2026,regular,2025-10-28,Oklahoma City Thunder,Sacramento Kings,107,101,4,f,t,Paycom Center
+nba,2026,regular,2025-10-28,Golden State Warriors,LA Clippers,98,79,4,f,t,Chase Center
+nba,2026,regular,2025-10-29,Boston Celtics,Cleveland Cavaliers,125,105,4,f,t,TD Garden
+nba,2026,regular,2025-10-29,Detroit Pistons,Orlando Magic,135,116,4,f,t,Little Caesars Arena
+nba,2026,regular,2025-10-29,Brooklyn Nets,Atlanta Hawks,112,117,4,f,t,Barclays Center
+nba,2026,regular,2025-10-29,Toronto Raptors,Houston Rockets,121,139,4,f,f,Scotiabank Arena
+nba,2026,regular,2025-10-29,Chicago Bulls,Sacramento Kings,126,113,4,f,f,United Center
+nba,2026,regular,2025-10-29,Dallas Mavericks,Indiana Pacers,107,105,4,f,f,American Airlines Center
+nba,2026,regular,2025-10-29,Denver Nuggets,New Orleans Pelicans,122,88,4,f,t,Ball Arena
+nba,2026,regular,2025-10-29,Utah Jazz,Portland Trail Blazers,134,136,4,f,t,Delta Center
+nba,2026,regular,2025-10-29,Minnesota Timberwolves,Los Angeles Lakers,115,116,4,f,t,Target Center
+nba,2026,regular,2025-10-29,Phoenix Suns,Memphis Grizzlies,113,114,4,f,t,Mortgage Matchup Center
+nba,2026,regular,2025-10-30,Charlotte Hornets,Orlando Magic,107,123,4,f,t,Spectrum Center
+nba,2026,regular,2025-10-30,Milwaukee Bucks,Golden State Warriors,120,110,4,f,f,Fiserv Forum
+nba,2026,regular,2025-10-30,Oklahoma City Thunder,Washington Wizards,127,108,4,f,f,Paycom Center
+nba,2026,regular,2025-10-30,San Antonio Spurs,Miami Heat,107,101,4,f,f,Frost Bank Center
+nba,2026,regular,2025-10-31,Indiana Pacers,Atlanta Hawks,108,128,4,f,t,Gainbridge Fieldhouse
+nba,2026,regular,2025-10-31,Philadelphia 76ers,Boston Celtics,108,109,4,f,t,Xfinity Mobile Arena
+nba,2026,regular,2025-10-31,Cleveland Cavaliers,Toronto Raptors,101,112,4,f,t,Rocket Arena
+nba,2026,regular,2025-10-31,Chicago Bulls,New York Knicks,135,125,4,f,t,United Center
+nba,2026,regular,2025-10-31,Memphis Grizzlies,Los Angeles Lakers,112,117,4,f,t,FedExForum
+nba,2026,regular,2025-10-31,Phoenix Suns,Utah Jazz,118,96,4,f,t,Mortgage Matchup Center
+nba,2026,regular,2025-10-31,Portland Trail Blazers,Denver Nuggets,109,107,4,f,t,Moda Center
+nba,2026,regular,2025-10-31,LA Clippers,New Orleans Pelicans,126,124,4,f,t,Intuit Dome
+nba,2026,regular,2025-11-01,Milwaukee Bucks,Sacramento Kings,133,135,4,f,f,Fiserv Forum
+nba,2026,regular,2025-11-01,Charlotte Hornets,Minnesota Timberwolves,105,122,4,f,f,Spectrum Center
+nba,2026,regular,2025-11-01,Indiana Pacers,Golden State Warriors,114,109,4,f,f,Gainbridge Fieldhouse
+nba,2026,regular,2025-11-01,Washington Wizards,Orlando Magic,94,125,4,f,t,Capital One Arena
+nba,2026,regular,2025-11-01,Boston Celtics,Houston Rockets,101,128,4,f,f,TD Garden
+nba,2026,regular,2025-11-01,Detroit Pistons,Dallas Mavericks,122,110,4,t,f,Arena CDMX
+nba,2026,regular,2025-11-02,Oklahoma City Thunder,New Orleans Pelicans,137,106,4,f,t,Paycom Center
+nba,2026,regular,2025-11-02,Brooklyn Nets,Philadelphia 76ers,105,129,4,f,t,Barclays Center
+nba,2026,regular,2025-11-02,Charlotte Hornets,Utah Jazz,126,103,4,f,f,Spectrum Center
+nba,2026,regular,2025-11-02,Cleveland Cavaliers,Atlanta Hawks,117,109,4,f,t,Rocket Arena
+nba,2026,regular,2025-11-02,Toronto Raptors,Memphis Grizzlies,117,104,4,f,f,Scotiabank Arena
+nba,2026,regular,2025-11-02,New York Knicks,Chicago Bulls,128,116,4,f,t,Madison Square Garden
+nba,2026,regular,2025-11-02,Phoenix Suns,San Antonio Spurs,130,118,4,f,t,Mortgage Matchup Center
+nba,2026,regular,2025-11-02,Los Angeles Lakers,Miami Heat,130,120,4,f,f,crypto.com Arena
+nba,2026,regular,2025-11-03,Brooklyn Nets,Minnesota Timberwolves,109,125,4,f,f,Barclays Center
+nba,2026,regular,2025-11-03,Indiana Pacers,Milwaukee Bucks,115,117,4,f,t,Gainbridge Fieldhouse
+nba,2026,regular,2025-11-03,Boston Celtics,Utah Jazz,103,105,4,f,f,TD Garden
+nba,2026,regular,2025-11-03,New York Knicks,Washington Wizards,119,102,4,f,t,Madison Square Garden
+nba,2026,regular,2025-11-03,Houston Rockets,Dallas Mavericks,110,102,4,f,t,Toyota Center (Houston)
+nba,2026,regular,2025-11-03,Memphis Grizzlies,Detroit Pistons,106,114,4,f,f,FedExForum
