@@ -43,7 +43,7 @@ It forwards to the hosted server with your key, so every tool and credit cost is
 
 ## Skills
 
-7 Claude skills for basketball ship in this repo, plus 13 analytics skills for models, backtests, calibration and comparing a model with the market. Every number in an answer comes from a live DunkAPI tool call, and odds are information only: no stakes, no picks.
+11 Claude skills for basketball ship in this repo, plus 13 analytics skills for models, backtests, calibration and comparing a model with the market. Every number in an answer comes from a live DunkAPI tool call, and odds are information only: no stakes, no picks.
 
 Claude Code:
 
@@ -60,10 +60,14 @@ Codex: `codex plugin marketplace add sports-data-hq/dunkapi-mcp`. Any agent that
 | `nba-dfs-lineup` | Build a lineup under the cap from your salary file, with fantasy points from the market's per-player lines |
 | `nba-fantasy-streaming` | Who to stream this week: games per team, back-to-backs and recent minutes |
 | `nba-game-preview` | One-page preview: records, ratings, pace and efficiency, four factors, injuries and the line |
+| `nba-line-movement` | How a basketball spread, total or moneyline moved by book, opening to closing, with the alternate-line ladders |
 | `nba-minutes-usage-redistribution` | Who benefits when a player sits: minutes, shots and usage per teammate with and without him |
 | `nba-pace-efficiency-matchup` | Two teams side by side on pace, offensive and defensive rating per 100 and the four factors |
 | `nba-player-props-research` | Prop lines by sportsbook, the player's record against his line, minutes context and movement |
 | `nba-shot-quality` | Shot quality by zone: attempts, makes and expected points per shot against actual results |
+| `ncaam-bracket-research` | Team profiles for tournament and bracket questions: Elo rank, net rating, pace, four factors and the season path, with no picks |
+| `ncaam-game-preview` | One-page preview of a men's or women's college basketball game: Elo, pace and efficiency, four factors, venue and the market line |
+| `ncaam-player-props-research` | Men's college basketball prop lines by book, the player's record against his line with minutes, and movement |
 
 The analytics skills: `backtesting`, `data-pipeline`, `elo-engineering`, `feature-engineering`, `market-vs-model`, `model-building`, `odds-market-analysis`, `prediction-tracker`, `probability-calibration`, `season-pack-offline`, `sports-data-preflight`, `visualization`, `walk-forward-validation`.
 
