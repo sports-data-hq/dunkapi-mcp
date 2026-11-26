@@ -43,7 +43,7 @@ It forwards to the hosted server with your key, so every tool and credit cost is
 
 ## Skills
 
-5 Claude skills for basketball ship in this repo, plus 15 analytics skills for models, backtests, calibration and comparing a model with the market. Every number in an answer comes from a live DunkAPI tool call, and odds are information only: no stakes, no picks.
+7 Claude skills for basketball ship in this repo, plus 15 analytics skills for models, backtests, calibration and comparing a model with the market. Every number in an answer comes from a live DunkAPI tool call, and odds are information only: no stakes, no picks.
 
 Claude Code:
 
@@ -57,6 +57,8 @@ Codex: `codex plugin marketplace add sports-data-hq/dunkapi-mcp`. Any agent that
 
 | Skill | What it does |
 |---|---|
+| `nba-dfs-lineup` | Build a lineup under the cap from your salary file, with fantasy points from the market's per-player lines |
+| `nba-fantasy-streaming` | Who to stream this week: games per team, back-to-backs and recent minutes |
 | `nba-game-preview` | One-page preview: records, ratings, pace and efficiency, four factors, injuries and the line |
 | `nba-minutes-usage-redistribution` | Who benefits when a player sits: minutes, shots and usage per teammate with and without him |
 | `nba-pace-efficiency-matchup` | Two teams side by side on pace, offensive and defensive rating per 100 and the four factors |
